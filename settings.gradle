@@ -1,2 +1,3 @@
 rootProject.name = 'rxjava-koans'
+include 'main'
 
